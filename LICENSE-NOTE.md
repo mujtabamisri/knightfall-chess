@@ -1,0 +1,1 @@
+Knightfall app scaffold may be adapted for your own use. Third-party code is subject to its own licenses. Stockfish and Stockfish.js are GPL-licensed; if distributing the app with an engine build, follow the relevant GPL requirements. Consult upstream LICENSE files.
